@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/teacher_nav"
+    app:startDestination="@id/homeFragment">
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.nerds.m_learning.teacher.ui.fragments.home.HomeFragment"
+        android:label="HomeFragment" >
+        <action
+            android:id="@+id/action_homeFragment_to_addCourseFragment"
+            app:destination="@id/addCourseFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_courseContainerFragment"
+            app:destination="@id/courseContainerFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_editCourseFragment"
+            app:destination="@id/editCourseFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/addCourseFragment"
+        android:name="com.nerds.m_learning.teacher.ui.fragments.courses.add_course.AddCourseFragment"
+        android:label="AddCourseFragment" >
+        <action
+            android:id="@+id/action_addCourseFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/courseContainerFragment"
+        android:name="com.nerds.m_learning.teacher.ui.fragments.container.CourseContainerFragment"
+        android:label="CourseContainerFragment" >
+        <action
+            android:id="@+id/action_courseContainerFragment_to_addLectureFragment"
+            app:destination="@id/addLectureFragment" />
+        <action
+            android:id="@+id/action_courseContainerFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+        <action
+            android:id="@+id/action_courseContainerFragment_to_lectureContainerFragment"
+            app:destination="@id/lectureContainerFragment" />
+        <action
+            android:id="@+id/action_courseContainerFragment_to_editLectureFragment"
+            app:destination="@id/editLectureFragment" />
+        <action
+            android:id="@+id/action_courseContainerFragment_to_chatPrivateFragment"
+            app:destination="@id/chatPrivateFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/addLectureFragment"
+        android:name="com.nerds.m_learning.teacher.ui.fragments.lectures.add_lecture.AddLectureFragment"
+        android:label="AddLectureFragment" >
+        <action
+            android:id="@+id/action_addLectureFragment_to_courseContainerFragment"
+            app:destination="@id/courseContainerFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/lectureContainerFragment"
+        android:name="com.nerds.m_learning.teacher.ui.fragments.container.LectureContainerFragment"
+        android:label="LectureContainerFragment" >
+        <action
+            android:id="@+id/action_lectureContainerFragment_to_addAssignmentFragment"
+            app:destination="@id/addAssignmentFragment" />
+        <action
+            android:id="@+id/action_lectureContainerFragment_to_courseContainerFragment"
+            app:destination="@id/courseContainerFragment" />
+        <action
+            android:id="@+id/action_lectureContainerFragment_to_editAssignmentFragment"
+            app:destination="@id/editAssignmentFragment" />
+        <action
+            android:id="@+id/action_lectureContainerFragment_to_editChapterFragment"
+            app:destination="@id/editChapterFragment" />
+        <action
+            android:id="@+id/action_lectureContainerFragment_to_addChapterFragment"
+            app:destination="@id/addChapterFragment" />
+        <action
+            android:id="@+id/action_lectureContainerFragment_to_allSubmissionsFragment"
+            app:destination="@id/allSubmissionsFragment" />
+        <action
+            android:id="@+id/action_lectureContainerFragment_to_showAssignmentFragment"
+            app:destination="@id/showAssignmentFragment" />
+        <action
+            android:id="@+id/action_lectureContainerFragment_to_showChapterFragment"
+            app:destination="@id/showChapterFragment" />
+
+    </fragment>
+    <fragment
+        android:id="@+id/addAssignmentFragment"
+        android:name="com.nerds.m_learning.teacher.ui.fragments.lectures.assignments.add_assignment.AddAssignmentFragment"
+        android:label="AddAssignmentFragment" >
+        <action
+            android:id="@+id/action_addAssignmentFragment_to_lectureContainerFragment"
+            app:destination="@id/lectureContainerFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/editCourseFragment"
+        android:name="com.nerds.m_learning.teacher.ui.fragments.courses.edit_course.EditCourseFragment"
+        android:label="EditCourseFragment" >
+        <action
+            android:id="@+id/action_editCourseFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/editLectureFragment"
+        android:name="com.nerds.m_learning.teacher.ui.fragments.lectures.edit_lecture.EditLectureFragment"
+        android:label="EditLectureFragment" >
+        <action
+            android:id="@+id/action_editLectureFragment_to_courseContainerFragment"
+            app:destination="@id/courseContainerFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/editAssignmentFragment"
+        android:name="com.nerds.m_learning.teacher.ui.fragments.lectures.assignments.edit_assignment.EditAssignmentFragment"
+        android:label="EditAssignmentFragment" >
+        <action
+            android:id="@+id/action_editAssignmentFragment_to_lectureContainerFragment"
+            app:destination="@id/lectureContainerFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/editChapterFragment"
+        android:name="com.nerds.m_learning.teacher.ui.fragments.lectures.chapters.edit_chapters.EditChapterFragment"
+        android:label="EditChapterFragment" >
+        <action
+            android:id="@+id/action_editChapterFragment_to_lectureContainerFragment"
+            app:destination="@id/lectureContainerFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/addChapterFragment"
+        android:name="com.nerds.m_learning.teacher.ui.fragments.lectures.chapters.add_chapters.AddChapterFragment"
+        android:label="AddChapterFragment" >
+        <action
+            android:id="@+id/action_addChapterFragment_to_lectureContainerFragment"
+            app:destination="@id/lectureContainerFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/chatPrivateFragment"
+        android:name="com.nerds.m_learning.teacher.ui.fragments.chat.ChatPrivateFragment"
+        android:label="ChatPrivateFragment" >
+
+        <action
+            android:id="@+id/action_chatPrivateFragment_to_courseContainerFragment"
+            app:destination="@id/courseContainerFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/allSubmissionsFragment"
+        android:name="com.nerds.m_learning.teacher.ui.fragments.lectures.assignments.get_assignment.AllSubmissionsFragment"
+        android:label="fragment_all_submissions"
+        tools:layout="@layout/fragment_all_submissions" >
+        <action
+            android:id="@+id/action_allSubmissionsFragment_to_lectureContainerFragment"
+            app:destination="@id/lectureContainerFragment" />
+        <action
+            android:id="@+id/action_allSubmissionsFragment_to_showAssignmentSubmissionFragment2"
+            app:destination="@id/showAssignmentSubmissionFragment2" />
+    </fragment>
+    <fragment
+        android:id="@+id/showAssignmentFragment"
+        android:name="com.nerds.m_learning.teacher.ui.fragments.lectures.assignments.get_assignment.ShowAssignmentFragment"
+        android:label="ShowAssignmentFragment" >
+        <action
+            android:id="@+id/action_showAssignmentFragment_to_lectureContainerFragment"
+            app:destination="@id/lectureContainerFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/showChapterFragment"
+        android:name="com.nerds.m_learning.teacher.ui.fragments.lectures.chapters.all_chapters.ShowChapterFragment"
+        android:label="ShowChapterFragment" >
+        <action
+            android:id="@+id/action_showChapterFragment_to_lectureContainerFragment"
+            app:destination="@id/lectureContainerFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/showAssignmentSubmissionFragment2"
+        android:name="com.nerds.m_learning.teacher.ui.fragments.lectures.assignments.get_assignment.ShowAssignmentSubmissionFragment"
+        android:label="ShowAssignmentSubmissionFragment" >
+        <action
+            android:id="@+id/action_showAssignmentSubmissionFragment2_to_allSubmissionsFragment"
+            app:destination="@id/allSubmissionsFragment" />
+    </fragment>
+</navigation>

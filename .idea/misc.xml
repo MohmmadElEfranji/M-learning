@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/drawable-v24/ic_arrow_back.xml" value="0.145" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/drawable/bottom_nav_color.xml" value="0.1495" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/drawable/btn_loading_layout_bg.xml" value="0.1395" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/drawable/ed_shape.xml" value="0.174" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/drawable/ic__menu.xml" value="0.1835" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/drawable/ic_box.xml" value="0.134" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/drawable/ic_chat.xml" value="0.1355" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/drawable/ic_done.xml" value="0.1395" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/drawable/ic_fail.xml" value="0.1395" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1395" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/drawable/ic_lock_24.xml" value="0.158" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/drawable/ic_logout_24.xml" value="0.1835" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/drawable/ic_send.xml" value="0.145" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/drawable/ic_unlock.xml" value="0.158" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/drawable/msg_incoming.xml" value="0.16" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/drawable/msg_outgoing.xml" value="0.16" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/drawable/my.xml" value="0.1505" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/drawable/my_mtrl_popupmenu_background.xml" value="0.1685" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout-sw320dp-land/cell_all_courses_search_list.xml" value="0.23125" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout-sw320dp-land/cell_assignments_student_side_list.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout-sw320dp-land/fragment_video_show.xml" value="0.21458333333333332" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout-sw320dp-land/video_show.xml" value="0.21458333333333332" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout-sw320dp/fragment_video_show.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout-sw320dp/video_show.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout-sw720dp-land/fragment_video_show.xml" value="0.1609375" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout-sw720dp/cell_chapters_student_side.xml" value="0.153125" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout-sw720dp/fragment_video_show.xml" value="0.153125" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout-sw720dp/msg_incoming.xml" value="0.10208333333333333" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout-sw720dp/msg_outgoing.xml" value="0.10208333333333333" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout-sw720dp/video_show.xml" value="0.40234375" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/activity_sign_in.xml" value="0.22" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/activity_sign_up.xml" value="0.22" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/activity_student_container.xml" value="0.2" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/activity_teacher_container.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/btn_loading_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/cell_all_courses_list.xml" value="0.25" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/cell_all_courses_search_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/cell_assignments_list.xml" value="0.22" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/cell_assignments_student_side.xml" value="0.22" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/cell_chapters_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/cell_chapters_student_side.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/cell_fields_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/cell_interests_list.xml" value="0.33" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/cell_lectures_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/cell_lectures_student_side_list .xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/cell_lectures_student_side_list.xml" value="0.25" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/cell_registered_courses_list.xml" value="0.25" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/cell_reistered_courses_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/cell_students_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/cell_submissions_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/cell_teacher_courses_list.xml" value="0.22" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/dropdown_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_add_assignment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_add_chapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_add_course.xml" value="0.22" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_add_lecture.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_all_courses.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_all_submissions.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_assignment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_assignment_show.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_assignment_student_side.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_chapter_show.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_chapter_student_side.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_chapters.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_chat_private.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_chat_private_student_side.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_container.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_course_container.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_course_students.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_custom_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_edit_assignment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_edit_chapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_edit_course.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_edit_lecture.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_home_student.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_home_teacher.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_interests.xml" value="0.25" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_lecture.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_lecture_container.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_lecture_student_side_container.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_lectures.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_lectures_of_course.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_lectures_student_side.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_search.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_show_assignment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_show_assignment_submission.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_show_chapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_submission_assignment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/fragment_video_show.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/msg_incoming.xml" value="0.33" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/msg_outgoing.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/online_user_rv.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/select_fields.xml" value="0.25" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/test.xml" value="0.33" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/layout/video_show.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/menu/actions_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/menu/actions_students_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/menu/checkbox_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/menu/course_popup_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/menu/main_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/menu/menu_search.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/menu/popup2_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/menu/popup_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Mlearning/app/src/main/res/menu/popup_menu3.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

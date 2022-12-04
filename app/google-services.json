@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438324119721",
+    "project_id": "m-learning-520da",
+    "storage_bucket": "m-learning-520da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438324119721:android:e6fd66fe050b1d43ea41b8",
+        "android_client_info": {
+          "package_name": "com.nerds.m_learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438324119721-vsc0c96hgg29of5kbcag1iafggk7vkjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOKVU_H2Tl3apjBlpiSEMHyq6BQ1ZKmLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438324119721-vsc0c96hgg29of5kbcag1iafggk7vkjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

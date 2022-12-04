@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment2"
+        android:enabled="true"
+        android:icon="@drawable/ic_home_24"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/allCoursesFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_explore_24"
+        android:title="Explore" />
+
+    <item
+        android:id="@+id/interestsFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_interests_24"
+        android:title="Interests" />
+
+
+</menu>

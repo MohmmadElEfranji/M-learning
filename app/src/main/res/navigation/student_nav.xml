@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/student_nav"
+    app:startDestination="@id/homeFragment2">
+
+    <fragment
+        android:id="@+id/homeFragment2"
+        android:name="com.nerds.m_learning.student.ui.fragments.home.StudentHomeFragment"
+        android:label="HomeFragment" />
+    <fragment
+        android:id="@+id/allCoursesFragment"
+        android:name="com.nerds.m_learning.student.ui.fragments.explore.AllCoursesFragment"
+        android:label="AllCoursesFragment" />
+    <fragment
+        android:id="@+id/interestsFragment"
+        android:name="com.nerds.m_learning.student.ui.fragments.interests.InterestsFragment"
+        android:label="InterestsFragment" />
+    <fragment
+        android:id="@+id/lecturesStudentSideFragment"
+        android:name="com.nerds.m_learning.student.ui.fragments.home.getLectures.LecturesStudentSideFragment"
+        android:label="LecturesStudentSideFragment" />
+</navigation>
